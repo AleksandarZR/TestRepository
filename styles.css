@@ -1,0 +1,25 @@
+body {
+	/*display: flex;*/
+	/*flex-direction: column;*/
+}
+
+header, section, footer {
+	border-width: 1px;
+	border-style: solid;
+}
+
+header {
+	margin: 0px;
+	background: lightblue;
+}
+
+section {
+	margin-top: 10px;
+	min-height: 81vh;
+	background-color: lavender;
+}
+
+footer {
+	margin-top: 10px;
+	background-color: lightblue;
+}
